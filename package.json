@@ -1,0 +1,7 @@
+{
+  "name": "slack-gong",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "@slack/web-api": "^7.0.0" }
+}
